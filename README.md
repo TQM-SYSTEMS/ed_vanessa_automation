@@ -1,2 +1,4 @@
-# ed_vanessa_automation
-Материалы мастер-класса по фреймворку vanessa automation
+- [Мастер класс "Vanessa automation. Начало использования в проектах"](#мастер-класс-vanessa-automation-начало-использования-в-проектах)
+# Мастер класс "Vanessa automation. Начало использования в проектах"
+ - Материалы мастер-класса по фреймворку vanessa automation
+
