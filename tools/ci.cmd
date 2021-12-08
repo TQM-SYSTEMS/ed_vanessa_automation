@@ -1,0 +1,2 @@
+@chcp 65001
+"C:\Program Files\1cv8\8.3.18.1334\bin\1cv8c" /N"Администратор" /TestManager /Execute "C:\Program Files\OneScript\lib\vanessa-automation-single\vanessa-automation-single.epf" /IBConnectionString "File=""C:\Users\mSamokhval\Documents\1C\DemoSSL"";" /C"StartFeaturePlayer;QuietInstallVanessaExt;VAParams=C:\GIT\ed_vanessa_automation\tools\json\VAParams.json"
