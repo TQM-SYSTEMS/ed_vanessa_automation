@@ -27,3 +27,4 @@ VASingle отличается от обычной сборки тем, что п
 
 - Цикл [статей](doc/readme.md)
 - Ссылка на [источник](https://github.com/Pr-Mex/vanessa-automation/blob/develop/docs/index.md)
+- 
